@@ -1,0 +1,20 @@
+{
+  "n_frases": 413,
+  "n_intenciones": 14,
+  "n_entrenamiento": 330,
+  "n_prueba": 83,
+  "n_externo": 70,
+  "vocabulario": 875,
+  "prueba": {
+    "accuracy": 0.8554216867469879,
+    "precision_macro": 0.8759018759018761,
+    "recall_macro": 0.8326530612244899,
+    "f1_macro": 0.8420866831581119
+  },
+  "externo": {
+    "accuracy": 0.8142857142857143,
+    "precision_macro": 0.8396258503401359,
+    "recall_macro": 0.8142857142857144,
+    "f1_macro": 0.8109461966604822
+  }
+}

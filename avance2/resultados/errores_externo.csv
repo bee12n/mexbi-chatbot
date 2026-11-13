@@ -1,0 +1,14 @@
+texto,intencion,prediccion
+holi,saludo,despedida
+que onda,saludo,tipos_banda
+ahí le dejamos,despedida,cotizacion
+"bueno, bye",despedida,saludo
+"ok, excelente servicio",agradecimiento,reparacion
+¿cuáles son sus productos?,tipos_banda,recomendacion
+se nos reventó la banda en la noche,reparacion,saludo
+¿mi banda ya quedó?,estatus_pedido,reparacion
+¿mandan a Querétaro?,tiempo_entrega,enviar_foto
+¿hay existencias o es sobre pedido?,tiempo_entrega,estatus_pedido
+¿me llega antes del lunes?,tiempo_entrega,estatus_pedido
+¿en qué colonia están?,horario_ubicacion,tipos_banda
+¿me das el número de un vendedor?,asesor,estatus_pedido

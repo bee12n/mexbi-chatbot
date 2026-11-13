@@ -1,0 +1,23 @@
+VALIDACIÓN LEAVE-ONE-PHOTO-OUT
+
+Nivel parche
+                  precision    recall  f1-score   support
+
+    Grabado fino      0.974     0.771     0.860       144
+Perfil de agarre      0.980     1.000     0.990       144
+            Tela      0.841     0.976     0.904       168
+
+        accuracy                          0.919       456
+       macro avg      0.931     0.916     0.918       456
+    weighted avg      0.927     0.919     0.917       456
+
+Nivel foto
+                  precision    recall  f1-score   support
+
+    Grabado fino      1.000     0.833     0.909         6
+Perfil de agarre      1.000     1.000     1.000         6
+            Tela      0.875     1.000     0.933         7
+
+        accuracy                          0.947        19
+       macro avg      0.958     0.944     0.947        19
+    weighted avg      0.954     0.947     0.947        19

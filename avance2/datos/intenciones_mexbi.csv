@@ -1,0 +1,414 @@
+texto,intencion,origen
+¿cuál es su teléfono?,asesor,manual
+¿cuánto me sale una poliuretano de 30 mts?,cotizacion,plantilla
+¿ponen grapas?,reparacion,manual
+¿pueden empalmar una banda lisa de 800mm?,reparacion,plantilla
+¿qué temperatura aguanta la banda lisa?,fichas_tecnicas,plantilla
+buenos días,saludo,manual
+perfecto gracias,agradecimiento,manual
+¿qué temperatura aguanta la caucho?,fichas_tecnicas,plantilla
+¿cuál me conviene?,recomendacion,manual
+"hola, ¿están atendiendo?",saludo,manual
+¿es resistente a grasas y aceites?,fichas_tecnicas,manual
+¿me pueden llamar?,asesor,manual
+¿me das el status de mi pedido?,estatus_pedido,manual
+"perfecto, muy claro",agradecimiento,manual
+cerrar chat,despedida,manual
+¿pueden agendar una visita a la planta?,instalacion,manual
+se rajó la banda a la mitad,reparacion,manual
+¿tienen lista de precios?,cotizacion,manual
+cuánto me sale una caucho de 6.5 m,cotizacion,plantilla
+¿reparan PU?,reparacion,plantilla
+necesito una banda para una fundidora,recomendacion,plantilla
+necesito montaje de banda nueva el sábado,instalacion,manual
+estatus del so 1071,estatus_pedido,plantilla
+prefiero hablar por teléfono,asesor,manual
+¿manejan banda de hule para trabajo pesado?,tipos_banda,manual
+me retiro,despedida,manual
+¿qué banda resiste más la abrasión?,recomendacion,manual
+¿cuál es el paso de la banda modular?,fichas_tecnicas,manual
+"trabajo en una pedrera, que banda uso",recomendacion,plantilla
+"tienen en existencia banda de malla de 18""",tiempo_entrega,plantilla
+mi banda se está desgarrando,reparacion,manual
+¿tienen banda modular plastica?,tipos_banda,plantilla
+se abrió el empalme,reparacion,manual
+quiero precio de malla metálica de 1 metro de ancho,cotizacion,plantilla
+muy amables,agradecimiento,manual
+la banda tiene un corte,reparacion,manual
+qué bandas venden,tipos_banda,manual
+¿cuál banda sirve para una pedrera?,recomendacion,plantilla
+¿hacen visitas técnicas?,instalacion,manual
+tengo la línea parada porque se rompió la banda,reparacion,manual
+¿qué banda uso en un transportador inclinado?,recomendacion,manual
+¿en cuántos días me llega?,tiempo_entrega,manual
+¿cuánto cuesta un empalme?,reparacion,manual
+buenos dias mexbelt,saludo,manual
+¿me pueden mandar un técnico?,instalacion,manual
+hasta luego,despedida,manual
+no me ha llegado mi pedido,estatus_pedido,manual
+¿tienen bandas con taquetes o perfiles?,tipos_banda,manual
+¿cuánto se tarda la importación?,tiempo_entrega,manual
+¿puedo pasar a recoger?,horario_ubicacion,manual
+¿cuál es la carga de trabajo?,fichas_tecnicas,manual
+Hola buenas tardes,saludo,manual
+te mando foto de la malla metalica que tengo,enviar_foto,plantilla
+¿tienen banda de poliuretano?,tipos_banda,manual
+¿cuál es el diámetro mínimo de polea?,fichas_tecnicas,manual
+¿tienen entrega inmediata?,tiempo_entrega,manual
+quiero hablar con Oscar,asesor,manual
+ficha técnica de la PU,fichas_tecnicas,plantilla
+"necesito una banda para minería, ¿cuál uso?",recomendacion,manual
+saludos,saludo,manual
+¿entregan en planta?,tiempo_entrega,manual
+cuánto me sale una banda lisa de un rollo de 50 m,cotizacion,plantilla
+¿en qué horario atienden?,horario_ubicacion,manual
+¿dónde está mi banda?,estatus_pedido,manual
+"listo, hasta luego",despedida,manual
+¿cuál es su dirección?,horario_ubicacion,manual
+necesito cotizar banda blanca sanitaria 600 mm x 6.5 m,cotizacion,plantilla
+¿cuál es la tensión máxima?,fichas_tecnicas,manual
+qué temperatura aguanta la banda blanca sanitaria,fichas_tecnicas,plantilla
+nos hablamos luego,despedida,manual
+¿envían a Saltillo?,tiempo_entrega,manual
+¿ya salió el so 1071?,estatus_pedido,plantilla
+te mando una foto de mi banda,enviar_foto,manual
+¿tienen mostrador?,horario_ubicacion,manual
+¿venden pu?,tipos_banda,plantilla
+¿qué marcas de banda manejan?,tipos_banda,manual
+bye bye,despedida,manual
+q tal,saludo,manual
+¿puede atenderme alguien?,asesor,manual
+¿qué banda pongo para una curva?,recomendacion,manual
+¿qué tiempo de entrega manejan?,tiempo_entrega,manual
+necesito instalar una hule de 6.5 m,instalacion,plantilla
+quiero precio de banda verde de pvc de 600 mm,cotizacion,plantilla
+gracias por responder tan rápido,agradecimiento,manual
+¿a qué hora cierran?,horario_ubicacion,manual
+cuanto cuesta la banda blanca,cotizacion,manual
+¿cuánto tardan en entregar una banda de malla de 1 metro de ancho?,tiempo_entrega,plantilla
+¿el envío tiene costo?,tiempo_entrega,manual
+¿cuánto tardan en entregar una banda blanca sanitaria de 24 pulgadas?,tiempo_entrega,plantilla
+¿cuánto tardan en entregar?,tiempo_entrega,manual
+ayúdame a escoger una banda,recomendacion,manual
+salir,despedida,manual
+¿qué opciones de banda tienen?,tipos_banda,manual
+ya me voy,despedida,manual
+¿a qué hora abren?,horario_ubicacion,manual
+¿ya enviaron mi banda?,estatus_pedido,manual
+instalan banda de malla en una línea de botellas,instalacion,plantilla
+¿cuál banda aguanta aceite?,recomendacion,manual
+se nos quemó un tramo de banda,reparacion,manual
+gracias,agradecimiento,manual
+que temperatura aguanta la PU,fichas_tecnicas,plantilla
+¿que paso con la orden 1110?,estatus_pedido,plantilla
+necesito las especificaciones de la banda,fichas_tecnicas,manual
+"ya no necesito nada, adiós",despedida,manual
+¿cuánto cobran por instalar?,instalacion,manual
+¿cuál es la indicada para lavado constante?,recomendacion,manual
+¿instalan banda de lonas en una planta de tortillas?,instalacion,plantilla
+qué banda me recomiendas para una planta de tortillas,recomendacion,plantilla
+¿de qué material es esta banda?,enviar_foto,manual
+¿ya salió mi pedido?,estatus_pedido,manual
+¿qué banda aguanta altas temperaturas?,recomendacion,manual
+¿en cuánto me dejas el rollo?,cotizacion,manual
+¿qué banda es mejor para un horno?,recomendacion,manual
+¿qué me recomiendas para cargar piedra?,recomendacion,manual
+necesito vulcanizar una banda de lonas de 800mm,reparacion,plantilla
+¿tienen en existencia banda modular plástica de 800mm?,tiempo_entrega,plantilla
+cotización de banda blanca sanitaria de 450 mm por 8 m,cotizacion,plantilla
+hey hola,saludo,manual
+¿hacen instalación en planta?,instalacion,manual
+estatus de mi orden,estatus_pedido,manual
+hola que tal,saludo,manual
+¿cuánto tarda una banda especial?,tiempo_entrega,manual
+"¿cuánto tardan en entregar una modular de 18""?",tiempo_entrega,plantilla
+¿con foto me dices si es banda de lonas?,enviar_foto,plantilla
+quiero una igual a la de la foto,enviar_foto,manual
+se le zafaron las grapas,reparacion,manual
+mil gracias,agradecimiento,manual
+"gracias, me sirvió mucho",agradecimiento,manual
+necesito instalar una banda lisa de 12 metros,instalacion,plantilla
+¿cuanto me sale una banda verde de pvc de 8 m?,cotizacion,plantilla
+especificaciones de la banda con chevron de 800mm,fichas_tecnicas,plantilla
+adiós,despedida,manual
+¿me puedes asesorar con el tipo de banda?,recomendacion,manual
+necesito hablar con un humano,asesor,manual
+¿ya salio el SO1102?,estatus_pedido,plantilla
+¿solo venden bandas?,tipos_banda,manual
+¿cuál banda es grado alimenticio?,recomendacion,manual
+¿qué banda me recomiendas para automotriz?,recomendacion,plantilla
+¿mi pedido ya está listo?,estatus_pedido,manual
+¿me agendas una llamada?,asesor,manual
+¿cuál es su horario?,horario_ubicacion,manual
+pásame la ubicación,horario_ubicacion,manual
+¿tienen PU?,tipos_banda,plantilla
+rastrear pedido so 1071,estatus_pedido,plantilla
+¿cuánto cuesta?,cotizacion,manual
+pásame costo por metro lineal,cotizacion,manual
+¿pueden empalmar una malla metalica de 1200 mm?,reparacion,plantilla
+quiero ver su catálogo de productos,tipos_banda,manual
+necesito cotizar banda con chevron 24 pulgadas x 20 metros,cotizacion,plantilla
+especificaciones de la banda con chevron de 450 mm,fichas_tecnicas,plantilla
+me puedes decir qué familias de bandas tienen,tipos_banda,manual
+¿me das seguimiento al SO1052?,estatus_pedido,plantilla
+¿el técnico trae su herramienta?,instalacion,manual
+¿la banda es antiestática?,fichas_tecnicas,manual
+cotización de banda blanca sanitaria de 36 in por 30 mts,cotizacion,plantilla
+dame el contacto de un ingeniero,asesor,manual
+¿necesitas foto de la banda?,enviar_foto,manual
+especificaciones de la pu de 450 mm,fichas_tecnicas,plantilla
+¿en qué parte de Monterrey están?,horario_ubicacion,manual
+¿qué tipos de banda con chevron tienen?,tipos_banda,plantilla
+hola mexbelt,saludo,manual
+¿cuanto cuesta una banda verde de pvc de 600 mm?,cotizacion,plantilla
+necesito precio urgente,cotizacion,manual
+seguimiento a mi orden,estatus_pedido,manual
+quiero cotizar una banda,cotizacion,manual
+estatus del 1094,estatus_pedido,plantilla
+¿cuánto me cobrarían por una banda de 10 metros?,cotizacion,manual
+quiero hablar con un asesor,asesor,manual
+necesito cotizar banda de lonas 450 mm x 30 mts,cotizacion,plantilla
+esta es la banda que traigo actualmente,enviar_foto,manual
+rastrear pedido la orden 1110,estatus_pedido,plantilla
+¿qué productos manejan?,tipos_banda,manual
+¿pueden venir a instalar la banda?,instalacion,manual
+se despegó la banda,reparacion,manual
+¿me das seguimiento al so 1071?,estatus_pedido,plantilla
+la banda se desgastó,reparacion,manual
+"va, gracias",agradecimiento,manual
+¿como va mi pedido SO1102?,estatus_pedido,plantilla
+quiero precio de banda con chevron de 450 mm,cotizacion,plantilla
+nos vemos,despedida,manual
+¿qué banda me recomiendas para minería?,recomendacion,plantilla
+cómo va mi pedido SO1060,estatus_pedido,plantilla
+¿con foto me dices si es pvc?,enviar_foto,plantilla
+necesito un presupuesto,cotizacion,manual
+reparan banda con chevron,reparacion,plantilla
+¿me pasas el correo de ventas?,asesor,manual
+hasta pronto,despedida,manual
+precio de malla metálica de 20 metros,cotizacion,plantilla
+¿qué banda le pongo a mi transportador?,recomendacion,manual
+no quiero hablar con un bot,asesor,manual
+¿atienden en días festivos?,horario_ubicacion,manual
+hola buen dia,saludo,manual
+"trabajo en una fundidora, ¿qué banda uso?",recomendacion,plantilla
+¿cuál es el tiempo de fabricación?,tiempo_entrega,manual
+se rompió mi banda lisa,reparacion,plantilla
+¿venden bandas de caucho?,tipos_banda,manual
+¿atienden en domingo?,horario_ubicacion,manual
+thanks,agradecimiento,manual
+¿con una foto me puedes decir qué banda es?,enviar_foto,manual
+buenas noches,saludo,manual
+¿dónde los encuentro?,horario_ubicacion,manual
+buen día,saludo,manual
+te mando foto de la pvc que tengo,enviar_foto,plantilla
+chao,despedida,manual
+eso es todo por hoy,despedida,manual
+¿la pueden tener para el viernes?,tiempo_entrega,manual
+muchísimas gracias,agradecimiento,manual
+¿pueden medir mi transportador?,instalacion,manual
+hasta mañana,despedida,manual
+¿te puedo enviar una foto?,enviar_foto,manual
+¿reparan pvc?,reparacion,plantilla
+hola,saludo,manual
+necesito instalar una banda verde de pvc de 20 metros,instalacion,plantilla
+¿tienen bodega en Apodaca?,horario_ubicacion,manual
+especificaciones de la PU de 600 mm,fichas_tecnicas,plantilla
+mira esta foto,enviar_foto,manual
+necesito una banda para una planta de tortillas,recomendacion,plantilla
+aquí está la foto de la banda que quiero,enviar_foto,manual
+¿con quién veo lo de mi cuenta?,asesor,manual
+"¿pueden empalmar una banda con chevron de 18""?",reparacion,plantilla
+¿instalan transportadores completos?,instalacion,manual
+gracias por tu ayuda,agradecimiento,manual
+¿hacen el cambio de banda en sitio?,instalacion,manual
+¿tienen pvc?,tipos_banda,plantilla
+¿me pueden marcar a este número?,asesor,manual
+¿tienen banda verde de pvc?,tipos_banda,plantilla
+gracias por la info,agradecimiento,manual
+¿la instalación está incluida?,instalacion,manual
+"no sé qué banda tengo, te paso foto",enviar_foto,manual
+¿cuánto cuesta una banda verde de pvc de 24 pulgadas?,cotizacion,plantilla
+"buenísimo, gracias",agradecimiento,manual
+¿manejan banda tipo chevron?,tipos_banda,manual
+¿tienen en stock?,tiempo_entrega,manual
+¿cuánto cuesta una pvc de 24 pulgadas?,cotizacion,plantilla
+hola mexbi,saludo,manual
+¿hacen empalmes?,reparacion,manual
+¿pueden reparar una banda de hule?,reparacion,manual
+el empalme ya no aguanta,reparacion,manual
+reparan banda verde de pvc,reparacion,plantilla
+¿tienen servicio de reparación urgente?,reparacion,manual
+¿reconoces esta banda?,enviar_foto,manual
+quiero comprar una banda,cotizacion,manual
+¿la tienen disponible ya?,tiempo_entrega,manual
+ficha tecnica de la caucho,fichas_tecnicas,plantilla
+¿me compartes la ficha de la banda modular?,fichas_tecnicas,manual
+"es todo, adiós",despedida,manual
+muy amable,agradecimiento,manual
+qué tipos de malla metálica tienen,tipos_banda,plantilla
+necesito vulcanizar una banda blanca sanitaria de 450 mm,reparacion,plantilla
+"hola, ¿hay alguien?",saludo,manual
+no sé qué banda necesito,recomendacion,manual
+¿hacen vulcanizado en caliente?,reparacion,manual
+comunícame con el área comercial,asesor,manual
+¿me mandas la ficha técnica?,fichas_tecnicas,manual
+necesito una banda para una pedrera,recomendacion,plantilla
+¿cuánto tardan en entregar una banda blanca sanitaria de 800mm?,tiempo_entrega,plantilla
+márquenme por favor,asesor,manual
+¿ya está en producción mi banda?,estatus_pedido,manual
+¿me ayudas a identificar esta banda?,enviar_foto,manual
+con un ejecutivo por favor,asesor,manual
+¿cómo llego a sus oficinas?,horario_ubicacion,manual
+precio de banda modular,cotizacion,manual
+¿venden caucho?,tipos_banda,plantilla
+"hola, ¿me pueden atender?",saludo,manual
+¿van a otras ciudades a instalar?,instalacion,manual
+¿cuánto tiempo tardan en confeccionarla?,tiempo_entrega,manual
+¿me comunicas con una persona?,asesor,manual
+"excelente, gracias",agradecimiento,manual
+ficha técnica de la hule,fichas_tecnicas,plantilla
+¿qué diferencia hay entre pvc y pu?,tipos_banda,manual
+¿abren los sábados?,horario_ubicacion,manual
+¿tienen novedades de mi orden?,estatus_pedido,manual
+precio de banda modular plástica de 12 metros,cotizacion,plantilla
+¿entregan el mismo día?,tiempo_entrega,manual
+¿tienen catálogo?,tipos_banda,manual
+costo de una banda,cotizacion,manual
+¿que tipos de caucho tienen?,tipos_banda,plantilla
+mando foto para que me digan qué es,enviar_foto,manual
+pásame con ventas,asesor,manual
+¿reparan bandas?,reparacion,manual
+hello,saludo,manual
+"buenas, una consulta",saludo,manual
+¿venden banda de pvc?,tipos_banda,manual
+gracias!!,agradecimiento,manual
+¿me la mandan por paquetería?,tiempo_entrega,manual
+necesito vulcanizar una banda lisa de 1 metro de ancho,reparacion,plantilla
+¿qué espesor tiene la banda?,fichas_tecnicas,manual
+eso sería todo,despedida,manual
+¿cuánto sale el metro de pvc?,cotizacion,manual
+manejan hule,tipos_banda,plantilla
+¿puedo mandarte fotos para cotizar?,enviar_foto,manual
+"hola, buenas",saludo,manual
+¿qué dureza tiene la cubierta?,fichas_tecnicas,manual
+¿me cotizas 2 piezas?,cotizacion,manual
+ok gracias,agradecimiento,manual
+¿me confirman si ya surtieron mi pedido?,estatus_pedido,manual
+¿pueden empalmar una PU de 800mm?,reparacion,plantilla
+necesito que me cambien la banda,instalacion,manual
+mi pedido venía para hoy y no ha llegado,estatus_pedido,manual
+¿tienen certificado FDA?,fichas_tecnicas,manual
+"de acuerdo, gracias",agradecimiento,manual
+te adjunto imagen de la banda,enviar_foto,manual
+¿tienen técnicos para montaje?,instalacion,manual
+holaa,saludo,manual
+me das seguimiento al 1094,estatus_pedido,plantilla
+¿venden pvc?,tipos_banda,plantilla
+¿cuál banda sirve para automotriz?,recomendacion,plantilla
+te envío imagen del transportador,enviar_foto,manual
+necesito la banda para mañana,tiempo_entrega,manual
+¿cuánto vale una banda de hule?,cotizacion,manual
+¿qué materiales tienen?,tipos_banda,manual
+me despido,despedida,manual
+¿tiene certificación para alimentos?,fichas_tecnicas,manual
+se agradece,agradecimiento,manual
+¿cómo va mi pedido?,estatus_pedido,manual
+manejan PU,tipos_banda,plantilla
+¿me pasas los datos técnicos?,fichas_tecnicas,manual
+¿ustedes instalan?,instalacion,manual
+¿qué es una banda modular?,tipos_banda,manual
+quiero que vengan a ver mi equipo,instalacion,manual
+¿tienen whatsapp?,asesor,manual
+¿qué banda es esta?,enviar_foto,manual
+¿ya facturaron mi pedido?,estatus_pedido,manual
+¿puedes ver qué tipo de banda es en la foto?,enviar_foto,manual
+manejan banda modular plastica,tipos_banda,plantilla
+"tengo una línea de pan, ¿qué banda me sugieres?",recomendacion,manual
+te mando foto de la poliuretano que tengo,enviar_foto,plantilla
+¿dónde están ubicados?,horario_ubicacion,manual
+la orilla de la banda está deshilachada,reparacion,manual
+se rompió mi modular,reparacion,plantilla
+muchas gracias,agradecimiento,manual
+¿qué tipos de banda manejan?,tipos_banda,manual
+quiero saber de mi pedido,estatus_pedido,manual
+precio de modular de 12 metros,cotizacion,plantilla
+"buenas tardes, ¿con quién tengo el gusto?",saludo,manual
+¿abren hoy?,horario_ubicacion,manual
+¿hacen empalme en frío?,reparacion,manual
+ola,saludo,manual
+¿manejan banda lisa?,tipos_banda,plantilla
+¿instalan banda lisa en alimentos?,instalacion,plantilla
+te agradezco,agradecimiento,manual
+¿cuál banda sirve para una fundidora?,recomendacion,plantilla
+¿manejan banda modular?,tipos_banda,manual
+¿me das seguimiento al SO1060?,estatus_pedido,plantilla
+ficha técnica de la banda blanca sanitaria,fichas_tecnicas,plantilla
+¿tienen en existencia banda de malla de 1 metro de ancho?,tiempo_entrega,plantilla
+busco una banda para producto congelado,recomendacion,manual
+"trabajo en una empacadora de carne, qué banda uso",recomendacion,plantilla
+¿me pasas una cotización?,cotizacion,manual
+¿cuándo llega lo que pedí?,estatus_pedido,manual
+rastrear pedido so1102,estatus_pedido,plantilla
+cotízame por favor,cotizacion,manual
+¿cuánto tardan en instalar una banda?,instalacion,manual
+¿tienen en existencia banda modular plástica de 24 pulgadas?,tiempo_entrega,plantilla
+quiero precio de modular de 36 in,cotizacion,plantilla
+bye,despedida,manual
+ya salio el la orden 1110,estatus_pedido,plantilla
+"¿cuánto cuesta una modular de 18""?",cotizacion,plantilla
+¿instalan hule en un centro de distribución?,instalacion,plantilla
+¿instalan en fin de semana?,instalacion,manual
+¿hacen envíos foráneos?,tiempo_entrega,manual
+¿venden banda de lonas?,tipos_banda,plantilla
+buenas,saludo,manual
+se rompió mi banda con chevron,reparacion,plantilla
+¿qué pasó con SO-1088?,estatus_pedido,plantilla
+se rompió la banda,reparacion,manual
+cotización de banda lisa de 600 mm por 20 metros,cotizacion,plantilla
+¿en qué va mi orden de compra?,estatus_pedido,manual
+cotizacion de banda modular plastica de 600 mm por un rollo de 50 m,cotizacion,plantilla
+con foto me dices si es PU,enviar_foto,plantilla
+¿manejan precios de mayoreo?,cotizacion,manual
+"super, gracias",agradecimiento,manual
+¿tienen hoja de seguridad del material?,fichas_tecnicas,manual
+¿la tienen en existencia?,tiempo_entrega,manual
+¿cuál es la mejor banda para cajas?,recomendacion,manual
+la banda está rota,reparacion,manual
+¿qué temperatura aguanta?,fichas_tecnicas,manual
+quiero hacer un pedido nuevo,cotizacion,manual
+rastrear pedido SO1045,estatus_pedido,plantilla
+¿tienen sucursal en Guadalajara?,horario_ubicacion,manual
+qué me conviene para automotriz,recomendacion,plantilla
+necesito vulcanizar una banda,reparacion,manual
+necesito cotizar banda de lonas 36 in x un rollo de 50 m,cotizacion,plantilla
+quiero rastrear mi pedido,estatus_pedido,manual
+¿hasta qué hora puedo pasar?,horario_ubicacion,manual
+luego les escribo,despedida,manual
+¿manejan bandas sanitarias?,tipos_banda,manual
+te comparto una imagen,enviar_foto,manual
+¿cómo va mi pedido SO1045?,estatus_pedido,plantilla
+¿hacen levantamiento de medidas?,instalacion,manual
+necesito el datasheet,fichas_tecnicas,manual
+qué tal,saludo,manual
+¿qué tipos de modular tienen?,tipos_banda,plantilla
+necesito instalar una banda lisa de 15 metros,instalacion,plantilla
+¿me pasas la hoja técnica?,fichas_tecnicas,manual
+¿cuánto costaría cambiar toda la banda?,cotizacion,manual
+¿qué me conviene para una pedrera?,recomendacion,plantilla
+¿cuántas lonas tiene?,fichas_tecnicas,manual
+¿qué precio tiene la banda de pu?,cotizacion,manual
+¿tienen banda de malla metálica?,tipos_banda,manual
+precio de banda lisa de 6.5 m,cotizacion,plantilla
+quiero que me contacte un vendedor,asesor,manual
+mándame precio,cotizacion,manual
+con foto me dices si es banda verde de pvc,enviar_foto,plantilla
+necesito una banda para una empacadora de carne,recomendacion,plantilla
+¿hacen envíos a otros estados?,tiempo_entrega,manual
+qué banda me recomiendas para una empacadora de carne,recomendacion,plantilla
+terminar,despedida,manual
+¿qué banda me recomiendas?,recomendacion,manual
+¿tienen bandas de colores?,tipos_banda,manual
+¿qué banda sirve para alimentos?,recomendacion,manual
+te mando foto de la banda blanca sanitaria que tengo,enviar_foto,plantilla
+estatus del SO1052,estatus_pedido,plantilla

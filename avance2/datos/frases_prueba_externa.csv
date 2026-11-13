@@ -1,0 +1,71 @@
+texto,intencion
+"buenas tardes, ¿quién me atiende?",saludo
+holi,saludo
+"hola, buen día a todos",saludo
+que onda,saludo
+"buenos días, vengo de parte de una empresa de alimentos",saludo
+"ok, por ahora es todo, hasta luego",despedida
+me salgo,despedida
+nos vemos la próxima semana,despedida
+ahí le dejamos,despedida
+"bueno, bye",despedida
+gracias por la atención,agradecimiento
+"va, muchas gracias joven",agradecimiento
+"perfecto, quedo muy agradecido",agradecimiento
+gracias crack,agradecimiento
+"ok, excelente servicio",agradecimiento
+¿qué clase de bandas fabrican?,tipos_banda
+quiero saber si trabajan banda de PU blanca,tipos_banda
+¿cuáles son sus productos?,tipos_banda
+¿tienen bandas modulares de plástico?,tipos_banda
+manejan malla?,tipos_banda
+"tengo un transportador de botellas, ¿qué banda me sugieren?",recomendacion
+¿cuál es la más recomendable para minería subterránea?,recomendacion
+no sé cuál escoger para mi línea de empaque,recomendacion
+¿qué banda aguanta producto caliente saliendo del horno?,recomendacion
+asesórame con la banda correcta para tortillas,recomendacion
+¿me cotizan una banda de pvc negra de 500 mm?,cotizacion
+cuanto me sale el metro,cotizacion
+"requiero cotización formal, por favor",cotizacion
+¿cuál es el precio de 3 bandas modulares?,cotizacion
+dame costos de banda de hule de 3 lonas,cotizacion
+¿mandan gente a instalar a Torreón?,instalacion
+ocupamos que vengan a montar la banda nueva,instalacion
+¿quién hace la instalación?,instalacion
+¿pueden hacer el cambio este domingo en la planta?,instalacion
+necesito una visita para medir el transportador,instalacion
+se nos reventó la banda en la noche,reparacion
+el empalme se está abriendo de la orilla,reparacion
+¿hacen reparaciones de emergencia?,reparacion
+mi banda tiene un desgarre longitudinal,reparacion
+¿cuánto cobran por vulcanizar?,reparacion
+¿qué ha pasado con mi orden SO1077?,estatus_pedido
+quiero saber si ya mandaron lo que compré,estatus_pedido
+el pedido de la semana pasada no ha llegado,estatus_pedido
+¿mi banda ya quedó?,estatus_pedido
+¿me pueden decir cómo va la orden 1099?,estatus_pedido
+¿en cuánto tiempo la tienen lista?,tiempo_entrega
+¿mandan a Querétaro?,tiempo_entrega
+¿hay existencias o es sobre pedido?,tiempo_entrega
+¿me llega antes del lunes?,tiempo_entrega
+¿cuántas semanas tarda una banda de importación?,tiempo_entrega
+¿su horario de atención cuál es?,horario_ubicacion
+¿en qué colonia están?,horario_ubicacion
+¿trabajan sábado?,horario_ubicacion
+¿me compartes su ubicación en maps?,horario_ubicacion
+¿a qué hora puedo pasar por mi material?,horario_ubicacion
+¿cuál es la temperatura máxima de la banda de pu?,fichas_tecnicas
+¿la banda cumple con FDA?,fichas_tecnicas
+quiero los datos técnicos de la modular,fichas_tecnicas
+¿qué resistencia a la tensión tiene?,fichas_tecnicas
+¿me envían la ficha en pdf?,fichas_tecnicas
+quiero que me hable alguien de ventas,asesor
+¿me das el número de un vendedor?,asesor
+ya me cansé del bot,asesor
+¿puedo hablar con el ingeniero?,asesor
+contáctenme por favor,asesor
+"te paso la foto, dime qué banda es",enviar_foto
+¿puedo subir una imagen?,enviar_foto
+aquí te va la foto de mi transportador,enviar_foto
+¿con la foto sabes qué material es?,enviar_foto
+adjunto foto de la banda dañada,enviar_foto

@@ -1,0 +1,43 @@
+PRUEBA 20 %
+                   precision    recall  f1-score   support
+
+   agradecimiento      1.000     1.000     1.000         4
+           asesor      1.000     0.500     0.667         4
+       cotizacion      0.818     1.000     0.900         9
+        despedida      0.333     0.500     0.400         4
+      enviar_foto      1.000     1.000     1.000         5
+   estatus_pedido      1.000     1.000     1.000         8
+  fichas_tecnicas      1.000     0.833     0.909         6
+horario_ubicacion      0.750     0.750     0.750         4
+      instalacion      1.000     0.833     0.909         6
+    recomendacion      0.750     0.857     0.800         7
+       reparacion      0.778     1.000     0.875         7
+           saludo      1.000     0.800     0.889         5
+   tiempo_entrega      0.833     0.833     0.833         6
+      tipos_banda      1.000     0.750     0.857         8
+
+         accuracy                          0.855        83
+        macro avg      0.876     0.833     0.842        83
+     weighted avg      0.884     0.855     0.859        83
+
+CONJUNTO EXTERNO
+                   precision    recall  f1-score   support
+
+   agradecimiento      1.000     0.800     0.889         5
+           asesor      1.000     0.800     0.889         5
+       cotizacion      0.833     1.000     0.909         5
+        despedida      0.750     0.600     0.667         5
+      enviar_foto      0.833     1.000     0.909         5
+   estatus_pedido      0.571     0.800     0.667         5
+  fichas_tecnicas      1.000     1.000     1.000         5
+horario_ubicacion      1.000     0.800     0.889         5
+      instalacion      1.000     1.000     1.000         5
+    recomendacion      0.833     1.000     0.909         5
+       reparacion      0.667     0.800     0.727         5
+           saludo      0.600     0.600     0.600         5
+   tiempo_entrega      1.000     0.400     0.571         5
+      tipos_banda      0.667     0.800     0.727         5
+
+         accuracy                          0.814        70
+        macro avg      0.840     0.814     0.811        70
+     weighted avg      0.840     0.814     0.811        70

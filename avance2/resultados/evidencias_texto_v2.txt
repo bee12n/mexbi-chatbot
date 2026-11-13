@@ -1,0 +1,84 @@
+========================================================================
+PRUEBA 1. Saludo y catálogo
+========================================================================
+Usuario : Hola, buenas tardes
+[intención: saludo | confianza: 81%]
+Mexbi   : ¡Hola! Soy Mexbi, el asistente de Mexbelt. Te ayudo con tipos de banda, cotizaciones, instalación, reparaciones o el estatus de tu pedido. También puedes mandarme una foto de tu banda y te digo qué tipo es.
+
+Usuario : ¿qué tipos de banda manejan?
+[intención: tipos_banda | confianza: 81%]
+Mexbi   : Manejamos estas familias de banda:
+• PVC / PU lisa: uso general, paquetería, empaque y, en PU, contacto directo con alimentos (FDA)
+• Modular plástica: lavado intensivo, curvas, congelado y procesos húmedos
+• Hule / caucho: trabajo pesado: minería, agregados, cemento y acero
+• Malla metálica: hornos, enfriamiento y altas temperaturas
+¿Para qué proceso la necesitas? Si ya tienes una, mándame foto y te digo cuál es.
+
+Usuario : gracias
+[intención: agradecimiento | confianza: 85%]
+Mexbi   : ¡Con gusto! ¿Te ayudo con algo más?
+
+========================================================================
+PRUEBA 2. Recomendación con contexto
+========================================================================
+Usuario : no sé qué banda necesito
+[intención: recomendacion | confianza: 68%]
+Mexbi   : Con gusto. ¿En qué industria o proceso la vas a usar? (alimentos, minería, paquetería, panadería…)
+
+Usuario : es para una línea de alimentos
+[intención: recomendacion (seguimiento) | confianza: 23%]
+Mexbi   : Para ese proceso normalmente recomendamos banda de PU o modular plástica (grado alimenticio). Si me pasas ancho y largo te armo la cotización.
+
+Usuario : va, 600 mm por 12 metros de PU
+[intención: cotizacion (seguimiento) | confianza: 69%]
+Mexbi   : Perfecto, registré tu solicitud: banda PU, ancho 600 mm, largo 12 metros. Un asesor te manda la cotización formal en menos de 24 horas hábiles.
+
+========================================================================
+PRUEBA 3. Cotización en un mensaje
+========================================================================
+Usuario : cotízame una banda de pvc de 24 pulgadas por 15 metros
+[intención: cotizacion | confianza: 76%]
+Mexbi   : Perfecto, registré tu solicitud: banda PVC, ancho 24 pulgadas, largo 15 metros. Un asesor te manda la cotización formal en menos de 24 horas hábiles.
+
+========================================================================
+PRUEBA 4. Pedido sin folio
+========================================================================
+Usuario : quiero saber cómo va lo que pedí
+[intención: estatus_pedido | confianza: 60%]
+Mexbi   : Claro, ¿me compartes tu número de pedido? Empieza con SO, por ejemplo SO1045.
+
+Usuario : es el 1052
+[intención: estatus_pedido (seguimiento) | confianza: 38%]
+Mexbi   : Tu pedido SO1052 está listo para envío; sale mañana con el chofer.
+
+========================================================================
+PRUEBA 5. Frases que en v0.1 fallaban
+========================================================================
+Usuario : ¿Venden motores eléctricos?
+[intención: tipos_banda | confianza: 78%]
+Mexbi   : Manejamos estas familias de banda:
+• PVC / PU lisa: uso general, paquetería, empaque y, en PU, contacto directo con alimentos (FDA)
+• Modular plástica: lavado intensivo, curvas, congelado y procesos húmedos
+• Hule / caucho: trabajo pesado: minería, agregados, cemento y acero
+• Malla metálica: hornos, enfriamiento y altas temperaturas
+¿Para qué proceso la necesitas? Si ya tienes una, mándame foto y te digo cuál es.
+
+Usuario : ayer le había pedido al vendedor una cotización
+[intención: estatus_pedido | confianza: 46%]
+Mexbi   : Claro, ¿me compartes tu número de pedido? Empieza con SO, por ejemplo SO1045.
+
+Usuario : ocupo que vengan a montar la banda
+[intención: instalacion | confianza: 56%]
+Mexbi   : Sí, instalamos en tu planta. Primero hacemos visita técnica para medir y revisar el transportador, luego planeamos la banda y el herramental, y la instalación normalmente es en fin de semana para no parar tu línea. ¿Quieres que un asesor agende la visita?
+
+========================================================================
+PRUEBA 6. Reparación y escalamiento
+========================================================================
+Usuario : se nos reventó la banda en la noche
+[intención: baja confianza (saludo) | confianza: 22%]
+Mexbi   : No estoy segura de haberte entendido. ¿Me lo dices de otra forma? Puedo ayudarte con tipos de banda, recomendación, cotizaciones, instalación, reparaciones, pedidos, tiempos de entrega, horario, fichas técnicas o identificar tu banda con una foto.
+
+Usuario : pásame con un asesor
+[intención: asesor | confianza: 44%]
+Mexbi   : Te comunico con un asesor de ventas. Déjame tu nombre, empresa y teléfono, o escribe a ventas@mexbelt.com.
+

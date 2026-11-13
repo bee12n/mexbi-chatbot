@@ -1,0 +1,24 @@
+digraph G {
+  rankdir=LR; dpi=200; bgcolor="white"; nodesep=0.35; ranksep=0.45;
+  node [fontname="Liberation Serif", fontsize=12, shape=box, style="rounded", color="#222222", penwidth=1.2];
+  edge [fontname="Liberation Serif", fontsize=10, color="#444444"];
+  usuario [label="Cliente\n(texto y/o foto)", style="rounded,filled", fillcolor="#EEEEEE"];
+  subgraph cluster_txt { label="Componente conversacional"; fontname="Liberation Serif Bold"; style="dashed"; color="#666666";
+    pre [label="Preprocesamiento NLTK\nnormalización · tokenización\nstopwords · stemming"];
+    tfidf [label="TF-IDF\n(1 y 2-gramas)"];
+    svm [label="SVM lineal calibrado\nintención + confianza"];
+  }
+  subgraph cluster_vis { label="Componente visual"; fontname="Liberation Serif Bold"; style="dashed"; color="#666666";
+    prep [label="Redimensión 224×224\npreprocess_input"];
+    cnn [label="ResNet50 (ImageNet)\n+ cabeza densa\nfine-tuning conv5"];
+    tipo [label="Tipo de banda\n+ probabilidad"];
+  }
+  gestor [label="Gestor de diálogo\numbrales · contexto · reglas\n(folio, medidas, material)", style="rounded,filled", fillcolor="#F5F5F5"];
+  kb [label="Base de\nconocimiento", shape=cylinder];
+  resp [label="Respuesta en\nlenguaje natural"];
+  asesor [label="Asesor de ventas"];
+  usuario -> pre [label="texto"]; pre -> tfidf -> svm -> gestor;
+  usuario -> prep [label="imagen"]; prep -> cnn -> tipo -> gestor;
+  gestor -> kb [dir=both]; gestor -> resp -> usuario [style=dashed];
+  gestor -> asesor [style=dashed, label="baja confianza\no lo pide"];
+}
